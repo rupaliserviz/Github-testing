@@ -1,0 +1,6 @@
+This is a mobile application
+login page
+verification with otp
+home page
+dark mode
+category selection
