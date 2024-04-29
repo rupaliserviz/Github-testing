@@ -6,3 +6,4 @@ dark mode
 category selection
 brand selection
 product selection
+offer selection
