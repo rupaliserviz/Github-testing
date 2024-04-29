@@ -4,3 +4,4 @@ verification with otp
 home page
 dark mode
 category selection
+brand selection
