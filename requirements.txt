@@ -5,3 +5,4 @@ home page
 dark mode
 category selection
 brand selection
+product selection
